@@ -1,4 +1,4 @@
-# [ESX] NEW_BANKING Script for FiveM
+# [ESX][REWORKED][OPTIMIZED] NEW_BANKING Script for FiveM
 
 Hey! This is reworked new_banking with following changes :
 
